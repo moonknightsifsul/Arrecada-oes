@@ -1,2 +1,3 @@
-# Arrecada-oes
-Sistema Web para arrecadar doações.
+# Arrecada-ções
+Sistema Web para arrecadar doações a entidades sociais.
+Tecnologia Java Web
